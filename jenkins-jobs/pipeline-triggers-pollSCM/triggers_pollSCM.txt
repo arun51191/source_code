@@ -10,6 +10,7 @@ pipeline {
 				branches: [[name: "origin/master"]], 
 				userRemoteConfigs: [[
                 url: 'https://github.com/arun51191/source_code.git']]])
+        echo "ovooo...ovfovovoovoovooooooo"
             }				
         }				
     }				
